@@ -62,4 +62,5 @@ Start Apache and MySQL.
 Open the project in your browser.
 
 👩‍💻 Author
+
 Alfiya P K | BCA Student | Aspiring Full-Stack Developer
