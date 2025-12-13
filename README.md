@@ -1,20 +1,20 @@
-The Asset Management System is a full-stack web application developed using PHP, MySQL, HTML, CSS, and JavaScript. It helps organizations efficiently manage assets, users, and maintenance workflows, with a focus on usability, role-based access, and real-world application logic.
+The Asset Management System is a full-stack web application built using PHP, MySQL, HTML, CSS, and JavaScript. It enables organizations to efficiently manage assets, users, and maintenance workflows with a focus on usability, role-based access, and real-world application logic.
 
-This project was built end-to-end as part of my learning journey to gain hands-on experience in backend development, database design, and full-stack web application development.
+This project was developed end-to-end as part of my learning journey to gain hands-on experience in backend development, database design, and full-stack web application development.
 
-🚀 Features
+🚀 Key Features
 
 Role-based authentication (Admin / User)
 
-Asset management with CRUD operations
+Asset management with full CRUD operations
 
-Maintenance request submission and tracking
+Maintenance request submission, tracking, and status updates
 
-Status updates and notifications
+Notifications for status changes
 
 Admin and User dashboards
 
-Search and filter functionality
+Search, filter, and export functionality
 
 Secure backend logic and structured database design
 
@@ -40,29 +40,26 @@ Asset Management
 
 Maintenance Request Management
 
-Notifications and Status Tracking
+Notifications & Status Tracking
 
 Authentication & Authorization
 
 ⚙️ Installation & Setup
 
-Clone the repository
+Clone the repository:
 
 git clone https://github.com/alfiyapk/Asset-Management-System.git
 
 
-Move the project folder to your server directory (htdocs or www)
+Move the project folder to your server directory (htdocs or www).
 
-Import the database file into MySQL (phpMyAdmin)
+Import the database file into MySQL (phpMyAdmin).
 
-Update database credentials in the PHP config file
+Update database credentials in the PHP config file.
 
-Start Apache and MySQL
+Start Apache and MySQL.
 
-Open the project in your browser
-
+Open the project in your browser.
 
 👩‍💻 Author
-
-Alfiya P K
-BCA Student | Aspiring Full-Stack Developer
+Alfiya P K | BCA Student | Aspiring Full-Stack Developer
