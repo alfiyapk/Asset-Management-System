@@ -61,31 +61,6 @@ Start Apache and MySQL
 
 Open the project in your browser
 
-🎯 Learning Outcomes
-
-Built a complete full-stack application
-
-Implemented role-based access control
-
-Strengthened understanding of PHP backend logic
-
-Gained experience with MySQL database relationships
-
-Improved problem-solving and debugging skills
-
-Learned real-world project structuring
-
-📌 Future Enhancements
-
-Asset return and approval workflow
-
-Advanced reporting and analytics
-
-Email notifications
-
-Improved UI/UX
-
-API integration
 
 👩‍💻 Author
 
